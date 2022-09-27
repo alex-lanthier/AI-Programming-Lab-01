@@ -36,3 +36,9 @@ cmake-build*
 bin-emscripten/
 
 build/
+
+.vs/AI-Programming-Lab-01/v17/
+
+.vs/AI-Programming-Lab-01/FileContentIndex/
+
+.vs/
